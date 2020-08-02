@@ -1,8 +1,10 @@
 
 public class Hello {
 
+	private static final String msg = "ÄúºÃ";
+
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ");
+		System.out.println(msg);
 	}
 
 }
